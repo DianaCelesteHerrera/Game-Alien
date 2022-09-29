@@ -1,2 +1,2 @@
 # Game-Alien
-game based on apple playgrounds
+game based on apple playgrounds simple and complex functions are used with the help of touch
